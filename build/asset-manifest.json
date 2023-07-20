@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0e2bdcf9.css",
+    "main.js": "/static/js/main.10c5fd7a.js",
+    "static/js/787.749b4a44.chunk.js": "/static/js/787.749b4a44.chunk.js",
+    "static/media/coding.png": "/static/media/coding.6d171da87a4854819b72.png",
+    "static/media/e-commerce_app_redux.png": "/static/media/e-commerce_app_redux.7ad6cfb0bbe02691df81.png",
+    "static/media/tax_calculator.png": "/static/media/tax_calculator.63598ff4410db18d430a.png",
+    "static/media/tic_tac_toe.png": "/static/media/tic_tac_toe.146c7856a079ec194d5d.png",
+    "index.html": "/index.html",
+    "main.0e2bdcf9.css.map": "/static/css/main.0e2bdcf9.css.map",
+    "main.10c5fd7a.js.map": "/static/js/main.10c5fd7a.js.map",
+    "787.749b4a44.chunk.js.map": "/static/js/787.749b4a44.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e2bdcf9.css",
+    "static/js/main.10c5fd7a.js"
+  ]
+}
