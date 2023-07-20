@@ -147,8 +147,6 @@ export const SkillsData = [
             />
           </svg>
         ),
-
-        // icon: <i class="devicon-css3-plain colored"></i>,
       },
       {
         name: "Material UI",

@@ -1,34 +1,56 @@
 export const WorkData = [
-    {
-        company: "Google IT Support Certificate" ,
-        designation: "Google IT Support",
-        dateJoining: "2022",
-        dateEnd: "2023",
-        companyLogo:"https://images.credly.com/size/340x340/images/ae2f5bae-b110-4ea1-8e26-77cf5f76c81e/GCC_badge_IT_Support_1000x1000.png",
-        work:"I am proficient in hardware and software troubleshooting , knowledge of operating systems, networking concepts, experience in providing excellent customer service.",
-    },
-    {
-        company: "Microsoft Certified: Azure Fundamentals" ,
-        designation: "AZ-900",
-        dateJoining: "2022",
-        dateEnd: "2023",
-        companyLogo:"https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png",
-        work:"I have solid understanding of cloud computing principles and best practices.Familiarity with Azure services such as virtual machines, storage, and networking.."
-    },
-    {
-        company: "Security Operations Analyst" ,
-        designation: "SC-200",
-        dateJoining: "2022",
-        dateEnd: "2023",
-        companyLogo:"https://images.credly.com/size/340x340/images/7e75516f-5149-4d19-8d09-aa3dab4907cb/security-operations-analyst-associate-600x600.png",
-        work:"I proficient in security operations and incident response and experience with threat intelligence and security monitoring using Microsoft security technologies.I have knowledge of governance, risk, and compliance frameworks and practices."
-    },
-    {
-        company: "Azure Administrator Associate" ,
-        designation: "AZ-104",
-        dateJoining: "2022",
-        dateEnd: "2023",
-        companyLogo:"https://images.credly.com/size/340x340/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png",
-        work:"I have proficient in managing and maintaining Azure infrastructure and services also experience with Azure virtual machines, storage, networking, and security.I have knowledge of Azure identity and access management, monitoring, and governance."
-    }
-]
+  {
+    company: "Javascript Course Certificate",
+    designation: "Javascript",
+    dateJoining: "2022",
+    dateEnd: "2022",
+    companyLogo:
+      "https://play-lh.googleusercontent.com/LIGo0qeu7aTc3LFnyDRTV01Q6szr3iG3h2WSqYj7Ef1XFKAS6IvKKuLSpTJn7NJUj-U",
+    work: "Completed comprehensive JavaScript course. Proficient in coding fundamentals, DOM manipulation, and building projects. Engaged in a vibrant global coding community.",
+  },
+  {
+    company: "HTML Course Certificate",
+    designation: "HTML",
+    dateJoining: "2021",
+    dateEnd: "2022",
+    companyLogo:
+      "https://play-lh.googleusercontent.com/LIGo0qeu7aTc3LFnyDRTV01Q6szr3iG3h2WSqYj7Ef1XFKAS6IvKKuLSpTJn7NJUj-U",
+    work: "Mastered SoloLearn's HTML course; proficient in essential HTML tags, attributes, forms, and multimedia. Skilled in building projects, actively engaged in a thriving global coding community.",
+  },
+  {
+    company: "CSS Course Certificate",
+    designation: "CSS",
+    dateJoining: "2021",
+    dateEnd: "2022",
+    companyLogo:
+      "https://play-lh.googleusercontent.com/LIGo0qeu7aTc3LFnyDRTV01Q6szr3iG3h2WSqYj7Ef1XFKAS6IvKKuLSpTJn7NJUj-U",
+    work: "Completed SoloLearn's CSS course; proficient in CSS fundamentals, selectors, layouts, and animations. Skilled in building projects, actively engaged in a vibrant global coding community.",
+  },
+  {
+    company: "PHP Course Certificate",
+    designation: "PHP",
+    dateJoining: "2022",
+    dateEnd: "2022",
+    companyLogo:
+      "https://coursereport-s3-production.global.ssl.fastly.net/uploads/school/logo/616/original/LOGO.jpg",
+    work: "Completed Great Learning's PHP course. Proficient in PHP fundamentals, server-side scripting, and database integration. Excited to build dynamic web apps and connect with coding community.",
+  },
+  {
+    company: "C++ Course Certificate",
+    designation: "C++",
+    dateJoining: "2022",
+    dateEnd: "2022",
+    companyLogo:
+      "https://coursereport-s3-production.global.ssl.fastly.net/uploads/school/logo/616/original/LOGO.jpg",
+    work: "Great Learning's C++ course completed. Proficient in fundamentals, OOP, and data structures. Excited to create programs and join coding community.",
+  },
+  {
+    company: "C Course Certificate",
+    designation: "C",
+    dateJoining: "2021",
+    dateEnd: "2021",
+    companyLogo:
+      "https://play-lh.googleusercontent.com/LIGo0qeu7aTc3LFnyDRTV01Q6szr3iG3h2WSqYj7Ef1XFKAS6IvKKuLSpTJn7NJUj-U",
+    work: "Completed SoloLearn's C course. Proficient in basics, problem-solving, and eager to connect with the coding community.",
+  },
+];

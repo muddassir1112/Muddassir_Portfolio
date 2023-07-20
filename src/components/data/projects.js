@@ -11,7 +11,6 @@ export const ProjectData = [
     demo: "https://github.com/ThantZinPhyo-Slark/Application-Web-Design",
     github: "https://github.com/muddassir1112/E-CommerceApp_with_Redux",
     image: eCommerceAppImage,
-    // image:"https://github.com/muddassir1112/E-CommerceApp_with_Redux/blob/master/e-commerce_app_redux.png",
   },
   {
     id: 1,
@@ -22,7 +21,6 @@ export const ProjectData = [
     demo: "https://github.com/ThantZinPhyo-Slark/Google-IT-Support-Professional",
     github: "https://github.com/muddassir1112/Tax_Calculator",
     image: tax_calculator,
-    // image:"https://github.com/ThantZinPhyo-Slark/Google-IT-Support-Professional/raw/main/Certificate.jpg",
   },
   {
     id: 1,
